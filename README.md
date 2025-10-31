@@ -7,3 +7,9 @@
 - `css/styles.css`: estilos globales
 - `js/app.js`: scripts sencillos
 - `.github/`: plantillas de issues/PR y workflows (si los agregas)
+
+## Roadmap
+- v0.1.0: estructura base (landing + estilos + js mínimo)
+- v0.2.0: nuevas secciones (Características, Testimonios, FAQ)
+- v1.0.0: versión estable (tag y GitHub Pages)
+- Próximo: accesibilidad, mejora de rendimiento y microinteracciones
