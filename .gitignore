@@ -12,3 +12,16 @@ yarn-error.log*
 # Editores
 .vscode/
 .idea/
+
+# Historial de VSCode y plugins
+.vscode/
+.history/
+*.code-workspace
+
+# Mac/Windows adicionales
+Icon?
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.log
